@@ -57,8 +57,6 @@ Now that we have a list of train station codes, we can iterate through it then a
 ## the first like would represent the 3 first letters of a station's name
 2015-02-28 18:04:13 -0500:Met-Far-Dup-Woo-Cle-Van-Ten-Fri-Bet
 2015-02-28 18:04:14 -0500:-T---------------------------------
-2015-02-28 18:04:24 -0500:-----T-----------------------------
-2015-02-28 18:04:34 -0500:---------T-------------------------
 ``` 
 
 Let's code it:
@@ -121,4 +119,4 @@ Conclusion
 We came a long way form knowing the next train in a train station to display a whole line with the trains moving in realtime. This method could be implement for any other public transportation with a decent API . The most obvious one would be the next bus.
 We can also extend this project to make have a full map with more than one line and see all the train moving in realtime using Javascript and HTML/CSS.Who knows maybe my next project!
 
-
+You can find the source code for this project [here](https://github.com/bennacer860/fun_with_trains)
