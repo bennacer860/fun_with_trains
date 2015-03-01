@@ -106,12 +106,13 @@ end
 
 And here is the final result:
 
-[image]
+![enter image description here](http://i.imgur.com/4WGpuMF.png)
 
 Obviously,  this implementation is not perfect. We can argue a couple of things
  - We don't really see the direction of the trains 
  - What if there are 2 trains going to the opposite directions boarding, we are not showing that information
  - We could replace the last display by the current one but you would not see the movement of the trains 
+ - We don't show the train when it is between two stations.
 
 Conclusion
 ----------
